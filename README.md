@@ -2,7 +2,7 @@
 
 Como executar e usar o programa: 
 
-Abra o index.html e ele lhe fará algumas perguntas.
+Abra o index.js e ele abrirá um prompt com perguntas
 
 Para adicionar uma tarefa digite 1. 
 Para visualizar ás tarefas digite 2. 
