@@ -1,6 +1,8 @@
 ----------------------------------------------- INSTRUÇÕES -----------------------------------------------
 
-1. Comandos: 
+Como executar e usar: 
+
+Abra o index.html e ele lhe fará algumas perguntas.
 
 Para adicionar uma tarefa digite 1. 
 Para visualizar ás tarefas digite 2. 
