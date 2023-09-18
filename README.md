@@ -1,6 +1,6 @@
 ----------------------------------------------- INSTRUÇÕES -----------------------------------------------
 
-Como executar e usar: 
+Como executar e usar o programa: 
 
 Abra o index.html e ele lhe fará algumas perguntas.
 
